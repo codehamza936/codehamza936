@@ -17,6 +17,8 @@ Computer Networks | Python Programming with AI | Cloud Computing)| Assembly Lang
 
 ## CYBERSECURITY LAB INFRASTRUCTURE
 
+### • [Vulnerability-Management-tenable](https://github.com/codehamza936/Vulnerability-Management-tenable)
+
 ### • [Implementing a SOC and Honeynet in Azure](https://github.com/codehamza936/azure-cybersecurity-home-lab)
 
 
