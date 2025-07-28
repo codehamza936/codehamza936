@@ -7,7 +7,7 @@
 <h2>👨‍💻 Certifications:</h2>
 
   - [ISC2 Certified in Cybersecurity (CC) ](https://www.credly.com/badges/b200a533-e4e7-40eb-a437-db0eef1c35e7/linked_in_profile)
-  -  [CompTIA Security+ ] (Expected 08/2025)
+  -  [CompTIA Security+ ] (Expected 09/2025)
 
 ## 🎓 Bachelor of Science in Computer Science
 
