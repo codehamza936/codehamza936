@@ -22,6 +22,8 @@ Computer Networks | Python Programming with AI | Cloud Computing)| Assembly Lang
 ### • [Implementing a SOC and Honeynet in Azure](https://github.com/codehamza936/azure-cybersecurity-home-lab)
 
 
+### • [Active-Directory-on-Oracle-VirtualBox](https://github.com/codehamza936/Active-Directory-on-Oracle-VirtualBox)
+
 ## SOFTWARE ENGINEERING PROJECTS
 
 ### • [ Auto Subtitle Generator ](https://github.com/codehamza936/subtitle-generator/tree/main/Projects/subtitle-generator)
